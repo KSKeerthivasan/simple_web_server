@@ -125,7 +125,7 @@ urlpatterns = [
     path('server',views.server)
 ]
 ```
-### Simplegpt.html
+### Simpleserver.html
 ```
 <!DOCTYPE html>
 <html lang="en">
