@@ -22,7 +22,8 @@ Testing the webserver.
 
 # PROGRAM:
 ### web.py
-```from http.server import HTTPServer,BaseHTTPRequestHandler
+```
+from http.server import HTTPServer,BaseHTTPRequestHandler
 content ="""
 <!DOCTYPE html>
 <html lang="en">
