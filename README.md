@@ -190,11 +190,9 @@ print("my webserver is running...")
 httpd.serve_forever()
 ```
 # OUTPUT:
-
 ![alt text](<Screenshot 2024-12-07 190714.png>)
 
 
 ![alt text](<Screenshot 2024-12-07 190745.png>)
-
 # RESULT:
 The program for implementing simple webserver is executed successfully.
